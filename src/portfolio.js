@@ -29,7 +29,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "Besides studying for the university, I'm learning to develop Web and Android games.",
+  subTitle: "I am an ambitious and energetic student, who commits a lot of his time, learning new upcoming technologies. I have studied in numerous fields of coding including web and android development, microcontroller hardware and game development. As a high school student, I was introduced to Mobile Game Development which grabbed my interest instantly and I've been dedicated to exploring this vast field ever since. In my free time, I like to learn new things, program, travel and ride my motorcycle. Besides studying for the university, I'm learning to develop Web and Android games.",
   skills: [
     emoji("⚡ Develop web and mobile applications"),
     emoji("⚡ Desktop Java & Python applications"),
@@ -166,8 +166,7 @@ const openSource = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  email_address: "sm9299@student.uni-lj.si"
 };
 
 
