@@ -7,9 +7,9 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
+  username: "Sebastjan mevlja",
+  title: "Hi all, I'm Sebastjan",
+  subTitle: emoji("A Computer Science student & passionate Software Developer 🚀 based in Slovenia."),
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -17,23 +17,23 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
-  // Instagram and Twitter are also supported in the links!
+  github: "https://github.com/mevljas",
+  linkedin: "https://www.linkedin.com/in/sebastjan-mevlja-5563851b3/",
+  facebook: "https://www.facebook.com/sebastjan.mevlja",
+  instagram: "https://www.instagram.com/sebastjan_mevlja/",
+  twitter: "https://twitter.com/sebastjan99",
+  gmail: "sm9299@student.uni-lj.si"
 };
 
 // Your Skills Section
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "Besides studying for the university, I'm learning to develop Web and Android games.",
   skills: [
-    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("⚡ Develop web and mobile applications"),
+    emoji("⚡ Desktop Java & Python applications"),
+    emoji("⚡ Software testing & quality")
   ],
 
 /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -41,57 +41,66 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "Html-5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "Css3",
       fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
     },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
-    {
-      skillName: "npm",
-      fontAwesomeClassname: "fab fa-npm"
-    },
-    {
-      skillName: "sql-database",
+      skillName: "Sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
+      skillName: "PHP",
+      fontAwesomeClassname: "fab fa-php"
     },
     {
-      skillName: "firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
-      skillName: "docker",
+      skillName: "Java",
+      fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "C",
+      fontAwesomeClassname: "fab fa-cuttlefish"
+    },
+    {
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "Android",
+      fontAwesomeClassname: "fab fa-android"
     }
+    ,
+    {
+      skillName: "Arduino",
+      fontAwesomeClassname: "fas fa-microchip"
+    }
+    ,
+    {
+      skillName: "Laravel",
+      fontAwesomeClassname: "fab fa-laravel"
+    }
+    ,
+    {
+      skillName: "Linux",
+      fontAwesomeClassname: "fab fa-linux"
+    }
+    ,
+    {
+      skillName: "Vagrant",
+      fontAwesomeClassname: "fab fa-vuejs"
+    }
+    
   ]
 };
 
@@ -101,22 +110,22 @@ const techStack = {
   viewSkillBars: true, //Set it to true to show Proficiency Section
   experience: [
     {
-      Stack: "Frontend/Design",  //Insert stack or technology you have experience in
+      Stack: "Java & Python",  //Insert stack or technology you have experience in
       progressPercentage: "90%"  //Insert relative proficiency in percentage
     },
     {
-      Stack: "Backend",
+      Stack: "Web development",
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
+      Stack: "Android",
       progressPercentage: "60%"
     }
   ]
 };
 
 
-// Your top 3 work experiences
+// Your education
 
 const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
