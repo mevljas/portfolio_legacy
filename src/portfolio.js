@@ -73,6 +73,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-cuttlefish"
     },
     {
+      skillName: "Git",
+      fontAwesomeClassname: "fab fa-git"
+    },
+    {
       skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
     },
