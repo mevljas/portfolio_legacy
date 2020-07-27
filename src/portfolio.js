@@ -10,7 +10,7 @@ const greeting = {
   username: "Sebastjan mevlja",
   title: "Hi all, I'm Sebastjan",
   subTitle: emoji("A Computer Science student & passionate Software Developer 🚀 based in Slovenia."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  resumeLink: "https://github.com/mevljas/developerFolio/raw/master/src/assets/Resume.pdf"
 };
 
 // Your Social Media Link
