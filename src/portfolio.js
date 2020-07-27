@@ -29,7 +29,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "I am an ambitious and energetic student, who commits a lot of his time, learning new upcoming technologies. I have studied in numerous fields of coding including web and android development, microcontroller hardware and game development. As a high school student, I was introduced to Mobile Game Development which grabbed my interest instantly and I've been dedicated to exploring this vast field ever since. In my free time, I like to learn new things, program, travel and ride my motorcycle. Besides studying for the university, I'm learning to develop Web and Android games.",
+  subTitle: "I am an ambitious and energetic student, who commits a lot of his time, learning new upcoming technologies. I have studied in numerous fields of coding including web and android development, microcontroller hardware and game development. As a high school student, I was introduced to Mobile Game Development which grabbed my interest instantly and I've been dedicated to exploring this vast field ever since. In my free time, I like to learn new things, program, travel, read books and ride my motorcycle. Besides studying for the university, I'm learning to develop Web and Android games.",
   skills: [
     emoji("⚡ Develop web and mobile applications"),
     emoji("⚡ Desktop Java & Python applications"),
@@ -137,7 +137,28 @@ const workExperiences = {
       date: "October 2018 – Present",
       desc: "Emphasis on superlative technical knowledge and acquisition of fundamental theoretical as well as practical knowledge in the field of computer and information science.",
       descBullets: [
-        "Bachelor of computing and informatics (VS)"
+        "Programing languages: Java, Javascript, Python, PHP, C & R",
+        "HTML5 & CSS3",
+        "MySQL",
+        "Web development",
+        "Android app development",
+        "ARM microcontroller development",
+        "Linux",
+        "Vagrant",
+        "Docker",
+        "Kubernetes",
+        "WebGL",
+        "GTK",
+        "Software testing & quality",
+        "User interfaces",
+        "Artificial intelligence",
+        "Algorithms and data structures",
+        "Computer communications",
+        "Operating-Systems",
+        "Graphic design",
+        "Communication protocols and network security",
+        "Computer graphics",
+        "Statistics"  
       ]
     },
     {
@@ -147,7 +168,18 @@ const workExperiences = {
       date: "September 2014 – June 2018",
       desc: "A computer technician knows the basic elements of software, rules for writing programs and basic knowledge of syntax and semantics in writing programs, and is also qualified to manage information equipment.",
       descBullets: [
-        "Computer technician",
+        "Programing languages: Java, Javascript & PHP",
+        "HTML & CSS",
+        "Oracle SQL & MySQL",
+        "Oracle Forms",
+        "Web development",
+        "Android app development",
+        "Hardware & Software management",
+        "Motorola microcontroller development",
+        "Linux & Windows server management",
+        "Powershell",
+        "Computer communications",
+        "Electrical knowledge"
       ]
     },
   ]
