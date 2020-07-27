@@ -158,7 +158,7 @@ const workExperiences = {
         "Artificial intelligence",
         "Algorithms and data structures",
         "Computer communications",
-        "Operating-Systems",
+        "Operating systems",
         "Graphic design",
         "Communication protocols and network security",
         "Computer graphics",
