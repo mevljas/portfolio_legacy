@@ -22,7 +22,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE
 
 ## How To Use 🔧
 From your command line, clone and run developerFolio:
-
+'''
 # Clone this repository
 $ git clone https://github.com/saadpasta/developerFolio.git
 
@@ -34,3 +34,4 @@ $ npm install
 
 #Start's development server
 $ npm start
+'''
