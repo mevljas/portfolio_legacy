@@ -21,7 +21,7 @@ This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE
 From your command line, clone and run developerFolio:
 ```bash
 # Clone this repository
-$ git clone https://github.com/saadpasta/developerFolio.git
+$ git clone https://github.com/mevljas/developerFolio.git
 
 # Go into the repository
 $ cd developerFolio
