@@ -33,5 +33,5 @@ $ npm install
 $ npm start
 
 # Deploy
-https://create-react-app.dev/docs/deployment/#github-pages
+$ npm run deploy
 ```
