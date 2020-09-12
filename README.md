@@ -29,6 +29,9 @@ $ cd developerFolio
 # Install dependencies
 $ npm install
 
-#Start's development server
+# Start's development server
 $ npm start
+
+# Deploy
+https://create-react-app.dev/docs/deployment/#github-pages
 ```
