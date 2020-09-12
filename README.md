@@ -1,8 +1,5 @@
 # Software Developer Folio ⚡️ [![GitHub](https://img.shields.io/github/license/saadpasta/developer-portfolio?color=blue)](https://github.com/saadpasta/developerFolio/blob/master/LICENSE) 
 
-## A clean, beautiful and responsive portfolio template for Developers!
-
-
 ## Technologies used 🛠️
 
 - [React](https://reactjs.org/)
@@ -19,3 +16,22 @@
 ## License 📄
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE) file for details
+
+## How To Use 🔧
+From your command line, clone and run developerFolio:
+```bash
+# Clone this repository
+$ git clone https://github.com/mevljas/developerFolio.git
+
+# Go into the repository
+$ cd developerFolio
+
+# Install dependencies
+$ npm install
+
+# Start's development server
+$ npm start
+
+# Deploy
+https://create-react-app.dev/docs/deployment/#github-pages
+```
