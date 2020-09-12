@@ -19,3 +19,18 @@
 ## License 📄
 
 This project is licensed under the GPL-3.0 License - see the [LICENSE](./LICENSE) file for details
+
+## How To Use 🔧
+From your command line, clone and run developerFolio:
+
+# Clone this repository
+$ git clone https://github.com/saadpasta/developerFolio.git
+
+# Go into the repository
+$ cd developerFolio
+
+# Install dependencies
+$ npm install
+
+#Start's development server
+$ npm start
