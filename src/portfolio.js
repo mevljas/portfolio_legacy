@@ -104,6 +104,11 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "Vagrant",
       fontAwesomeClassname: "fab fa-vuejs"
     }
+    ,
+    {
+      skillName: "Node.js",
+      fontAwesomeClassname: "fab fa-node"
+    }
     
   ]
 };
