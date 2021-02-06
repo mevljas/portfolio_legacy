@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.69ffce26.chunk.css",
-    "main.js": "/static/js/main.e7ce2a5b.chunk.js",
-    "main.js.map": "/static/js/main.e7ce2a5b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.59f5edb8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.59f5edb8.js.map",
+    "main.js": "/static/js/main.5b5696ff.chunk.js",
+    "main.js.map": "/static/js/main.5b5696ff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.97647398.js",
+    "runtime-main.js.map": "/static/js/runtime-main.97647398.js.map",
     "static/js/2.a2333509.chunk.js": "/static/js/2.a2333509.chunk.js",
     "static/js/2.a2333509.chunk.js.map": "/static/js/2.a2333509.chunk.js.map",
     "static/css/3.b499fcd2.chunk.css": "/static/css/3.b499fcd2.chunk.css",
-    "static/js/3.a3b85ace.chunk.js": "/static/js/3.a3b85ace.chunk.js",
-    "static/js/3.a3b85ace.chunk.js.map": "/static/js/3.a3b85ace.chunk.js.map",
+    "static/js/3.9b1c4849.chunk.js": "/static/js/3.9b1c4849.chunk.js",
+    "static/js/3.9b1c4849.chunk.js.map": "/static/js/3.9b1c4849.chunk.js.map",
     "static/css/4.01c87591.chunk.css": "/static/css/4.01c87591.chunk.css",
-    "static/js/4.fe140ee5.chunk.js": "/static/js/4.fe140ee5.chunk.js",
-    "static/js/4.fe140ee5.chunk.js.map": "/static/js/4.fe140ee5.chunk.js.map",
+    "static/js/4.a6565961.chunk.js": "/static/js/4.a6565961.chunk.js",
+    "static/js/4.a6565961.chunk.js.map": "/static/js/4.a6565961.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7a026225e2ad8117b65f03cdfe584695.js": "/precache-manifest.7a026225e2ad8117b65f03cdfe584695.js",
+    "precache-manifest.bb1bef39507ca91cda33410cd5680434.js": "/precache-manifest.bb1bef39507ca91cda33410cd5680434.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.b499fcd2.chunk.css.map": "/static/css/3.b499fcd2.chunk.css.map",
     "static/css/4.01c87591.chunk.css.map": "/static/css/4.01c87591.chunk.css.map",
@@ -30,9 +30,9 @@
     "static/media/skill.svg": "/static/media/skill.34409398.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.59f5edb8.js",
+    "static/js/runtime-main.97647398.js",
     "static/js/2.a2333509.chunk.js",
     "static/css/main.69ffce26.chunk.css",
-    "static/js/main.e7ce2a5b.chunk.js"
+    "static/js/main.5b5696ff.chunk.js"
   ]
 }
