@@ -144,6 +144,7 @@ const workExperiences = {
         "Programing languages: Java, Javascript, Python, PHP, C & R",
         "HTML5 & CSS3",
         "MySQL",
+        "PostgreSQL",
         "Web development",
         "Android app development",
         "ARM microcontroller development",
@@ -162,7 +163,12 @@ const workExperiences = {
         "Graphic design",
         "Communication protocols and network security",
         "Computer graphics",
-        "Statistics"  
+        "Statistics",
+        "System software",
+        "Software engineering",
+        "Information systems",
+        "Game technology and virtual reality",
+        "Electronic and mobile business"
       ]
     },
     {
